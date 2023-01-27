@@ -8,9 +8,7 @@ Atuei (2011-2022) como arquiteto na coordenação em desenvolvimentos de projeto
 
 Na área de ensino, atuei como professor de projeto de 2018 a 2021, além de desenvolver atividades de formação e debate sobre arquitetura, como as 3 edições Fórum Jovens Arquitetos Latino-americanos e o workshop Ateliê sem fronteiras.
 
-# Hello
-
-Hello! 
+# Hello!
 
 I am an architect transitioning into technology and data science field. I am a mentor in the ALFORRIAH project (https://www.alforriah.com) and I am currently looking for an opportunity in this area.
 
