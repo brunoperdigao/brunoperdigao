@@ -1,6 +1,6 @@
 # Olá!
 
-Me chamo Bruno Perdigão e sou um arquiteto em processo de transição para a área de tecnologia e ciência de dados. Sou mentorando no projeto ALFORRIAH (https://www.alforriah.com) e atualmente busco uma oportunidade nessa área.
+Me chamo Bruno Perdigão e sou um arquiteto em processo de transição para a área de tecnologia e ciência de dados.
 
 Tenho grande interesse por tecnologias digitais e busco aliar isso ao campo da arquitetura. Atualmente participo da comunidade OSArch, na promoção de softwares livres para desenvolvimento BIM. 
 
@@ -10,7 +10,7 @@ Na área de ensino, atuei como professor de projeto de 2018 a 2021, além de des
 
 # Hello!
 
-I am an architect transitioning into technology and data science field. I am a mentor in the ALFORRIAH project (https://www.alforriah.com) and I am currently looking for an opportunity in this area.
+I am an architect transitioning into technology and data science field.
 
 I am interested in digital technologies, and I am looking to combine this with the field of architecture. Currently, I'm participating in the OSArch community, promoting free software for BIM development. 
 
