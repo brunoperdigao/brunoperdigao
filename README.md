@@ -6,4 +6,6 @@ Também tenho formação em Arquitetura e Urbanismo e contribuo para projetos Op
 
 # Hello! 
 
-My name is Bruno Perdigão, I'm a Data Scientist and Developer, with experience in Python, SQL, data visualization and Machine Learning algorithms (Decision Tree, Regression and Model Combinations). I also have a background in Architecture and Urbanism and contribute to Open Source projects that involve programming and BIM.
+My name is Bruno Perdigão, I'm a Data Scientist and Developer, with experience in Python, SQL, data visualization and Machine Learning algorithms (Decision Tree, Regression and Model Combinations).
+
+I also have a background in Architecture and Urbanism and contribute to Open Source projects that involve programming and BIM.
