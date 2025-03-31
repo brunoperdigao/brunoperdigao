@@ -1,11 +1,5 @@
-# Olá!
+Analista de Tecnologia com especialização em Data Science e Analytics. Possuo experiência com desenvolvimento em Python, integração com ferramentas de LLM, linguagem SQL, visualização e tratamento de dados e algoritmos de Machine Learning. Também tenho formação em Arquitetura e Urbanismo e contribuo para projetos Open Source que envolvem programação e OpenBIM.
 
-Me chamo Bruno Perdigão, sou Cientista de Dados e Desenvolvedor, com experiência em Python, SQL, visualização e tratamento de dados e algoritmos de Machine Learning (Árvore de Decisão, Regressão e Combinações de modelos).
+/// 
 
-Também tenho formação em Arquitetura e Urbanismo e contribuo para projetos Open Source que envolvem programação e BIM.
-
-# Hello! 
-
-My name is Bruno Perdigão, I'm a Data Scientist and Developer, with experience in Python, SQL, data visualization and Machine Learning algorithms (Decision Tree, Regression and Model Combinations).
-
-I also have a background in Architecture and Urbanism and contribute to Open Source projects that involve programming and BIM.
+Technology Analyst with specialization in Data Science and Analytics. I have experience with Python development, integration with LLM tools, SQL language, data visualization and processing, and Machine Learning algorithms. I also have a background in Architecture and Urbanism and contribute to Open Source projects involving programming and OpenBIM.
